@@ -1,6 +1,4 @@
-#Guess The Number Game
-
-'''mermaid
+'''mermaid  
 flowchart TD
   Start([Start]) --> RandomNumber([Generate a number between 1-100])
   RandomNumber --> PlayerInput([Get Player input])

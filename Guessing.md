@@ -6,6 +6,7 @@ flowchart TD
   RandomNumber--Player Enter's Guess-->PlayerInput([Player's Guess])
 
   PlayerInput--Not a valid number-->InvalidNumber([Invalid! Try Again.])
+  InvalidNumber-->PlayerInput
   
   PlayerInput--Correct-->CorrectGuess([Correct!])
   PlayerInput--TooHigh-->WrongGuessHigh([Too High! Try Again])

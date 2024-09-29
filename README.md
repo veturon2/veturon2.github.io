@@ -6,10 +6,10 @@
 
 # About Me
 ## My Interests  
-* Playing video games such as Call of Duty, NBA 2k25, and Dragon Ball Z games
-* Watching anime such as Dragon Ball Z, One Piece, Naruto, etc.
+* Playing video games such as _Call of Duty_, _NBA 2k25_, and _Dragon Ball Z_ games
+* Watching anime such as _Dragon Ball Z_, _One Piece_, _Naruto_, etc.
 * Going to the gym
-* Trying new food spots
+* Trying new food spots with my fiancée and just going out to eat anywhere 
 ## Websites I Recommend  
-* [WARZONE META](https://wzstats.gg/en) - Warzone Meta is a website that gives update details about guns and loadouts that have greats stats and are the best to use.
-* [IGN](https://www.ign.com/upcoming/games) - IGN is a gaming website that gives updates, reviews, and guides to games that are out, up and coming, or are coming out soon.
+* [WARZONE META](https://wzstats.gg/en) - _Warzone Meta_ is a website that gives update details about guns and loadouts that have greats stats and are the best to use.
+* [IGN](https://www.ign.com/upcoming/games) - _IGN_ is a gaming website that gives updates, reviews, and guides to games that are out, up and coming, or are coming out soon.

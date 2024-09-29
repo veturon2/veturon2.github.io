@@ -2,15 +2,15 @@
 
 '''mermaid
 flowchart TD;
-  Start([Start]) --> RandomNumber([Generate a number between 1-100]);
-  RandomNumber --> PlayerInput([Get Player input]);
+  Start([Start])-->RandomNumber([Generate a number between 1-100]);
+  RandomNumber-->PlayerInput([Get Player input]);
   
-  PlayerInput -- Correct --> CorrectGuess([Correct!]);
-  PlayerInput -- TooHigh --> WrongGuess([Too High! Try Again]);
-  PlayerInput -- TooLow --> WrongGuess([Too Low! Try Again]);
+  PlayerInput--Correct-->CorrectGuess([Correct!]);
+  PlayerInput--TooHigh-->WrongGuess([Too High! Try Again]);
+  PlayerInput--TooLow-->WrongGuess([Too Low! Try Again]);
   
-  WrongGuess --> PlayerInput
-  CorrectGuess --> End([End])
+  WrongGuess-->PlayerInput
+  CorrectGuess-->End([End])
   '''
 
 The game begins with the system generating a random number between 1-100   The player must then guess a number between 1-100    

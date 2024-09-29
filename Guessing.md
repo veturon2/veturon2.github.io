@@ -3,7 +3,7 @@
 ```mermaid
 flowchart TD;
   Start([Start])-->RandomNumber([Guess a number between 1-100]);
-  RandomNumber-->PlayerInput([Player's Guess]);
+  RandomNumber--Player Enter's Guess-->PlayerInput([Player's Guess]);
   
   PlayerInput--Correct-->CorrectGuess([Correct!]);
   PlayerInput--TooHigh-->WrongGuessHigh([Too High! Try Again]);

@@ -3,3 +3,13 @@
 2. My account name on GitHub is veturon2, I have two repositories, 1 is skills-introduction-to-GitHub and the other one is veturon2.github.io
 3.The repository I created was the second one, veturon2.github.io. I cloned it on the GitHub desktop app and have not done anything else to it yet.
 4. I downloaded the GitHub desktop app, logged into my GitHub account, then there were 3 tabs to the right. I chose the "Clone a repository" tab and cloned veturon2.github.io and set the location on my desktop in a folder called CTI-110 and then put it in a folder within called Labs, that way I know where to locate it on my computer.
+
+# About Me
+## My Interests  
+* Playing video games such as Call of Duty, NBA 2k25, and Dragon Ball Z games
+* Watching anime such as Dragon Ball Z, One Piece, Naruto, etc.
+* Going to the gym
+* Trying new food spots
+## Websites I Recommend  
+* [WARZONE META](https://wzstats.gg/en) - Warzone Meta is a website that gives update details about guns and loadouts that have greats stats and are the best to use.
+* [IGN](https://www.ign.com/upcoming/games) - IGN is a gaming website that gives updates, reviews, and guides to games that are out, up and coming, or are coming out soon.

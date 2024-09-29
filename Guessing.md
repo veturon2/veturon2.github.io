@@ -1,13 +1,13 @@
 # Guess That Number Game
 
 ```mermaid
-flowchart TD;
-  Start([Start])-->RandomNumber([Guess a number between 1-100]);
-  RandomNumber--Player Enter's Guess-->PlayerInput([Player's Guess]);
+flowchart TD
+  Start([Start])-->RandomNumber([Guess a number between 1-100])
+  RandomNumber--Player Enter's Guess-->PlayerInput([Player's Guess])
   
-  PlayerInput--Correct-->CorrectGuess([Correct!]);
-  PlayerInput--TooHigh-->WrongGuessHigh([Too High! Try Again]);
-  PlayerInput--TooLow-->WrongGuessLow([Too Low! Try Again]);
+  PlayerInput--Correct-->CorrectGuess([Correct!])
+  PlayerInput--TooHigh-->WrongGuessHigh([Too High! Try Again])
+  PlayerInput--TooLow-->WrongGuessLow([Too Low! Try Again])
   
   WrongGuessHigh-->PlayerInput
   WrongGuessLow-->PlayerInput

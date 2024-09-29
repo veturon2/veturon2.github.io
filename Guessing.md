@@ -7,10 +7,9 @@ flowchart TD
 
   PlayerInput--Not a valid number-->InvalidNumber([Invalid! Try Again.])
   InvalidNumber-->PlayerInput
-  
-  PlayerInput--Correct-->CorrectGuess([Correct!])
   PlayerInput--TooHigh-->WrongGuessHigh([Too High! Try Again])
   PlayerInput--TooLow-->WrongGuessLow([Too Low! Try Again])
+  PlayerInput--Correct-->CorrectGuess([Correct!])
   
   WrongGuessHigh-->PlayerInput
   WrongGuessLow-->PlayerInput

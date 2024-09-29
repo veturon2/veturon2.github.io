@@ -6,10 +6,11 @@ flowchart TD;
   RandomNumber-->PlayerInput([Get Player input]);
   
   PlayerInput--Correct-->CorrectGuess([Correct!]);
-  PlayerInput--TooHigh-->WrongGuess([Too High! Try Again]);
-  PlayerInput--TooLow-->WrongGuess([Too Low! Try Again]);
+  PlayerInput--TooHigh-->WrongGuessHigh([Too High! Try Again]);
+  PlayerInput--TooLow-->WrongGuessLow([Too Low! Try Again]);
   
-  WrongGuess-->PlayerInput
+  WrongGuessHigh-->PlayerInput
+  WrongGuessLow-->PlayerInput
   CorrectGuess-->End([End])
 ```
 

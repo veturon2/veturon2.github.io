@@ -11,5 +11,5 @@
 * Going to the gym
 * Trying new food spots with my fiancée and just going out to eat anywhere 
 ## Websites I Recommend  
-* [WARZONE META](https://wzstats.gg/en) - _Warzone Meta_ is a website that gives update details about guns and loadouts that have greats stats and are the best to use.
+* [WARZONE META](https://wzstats.gg/en) - _Warzone Meta_ is a website that gives updated details about the guns and loadouts in the game that have the best stats and are the best to use.
 * [IGN](https://www.ign.com/upcoming/games) - _IGN_ is a gaming website that gives updates, reviews, and guides to games that are out, up and coming, or are coming out soon.

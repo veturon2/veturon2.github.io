@@ -5,7 +5,7 @@ flowchart TD
   Start([Start])-->RandomNumber([Guess a number between 1-100])
   RandomNumber--Player Enter's Guess-->PlayerInput([Player's Guess])
 
-  PlayerInput--Not a valid number-->InvalidNumber([**Invalid! Try Again**])
+  PlayerInput--Not Valid-->InvalidNumber([**Invalid! Try Again**])
   InvalidNumber-->PlayerInput
   PlayerInput--TooHigh-->WrongGuessHigh([**Too High! Try Again**])
   PlayerInput--TooLow-->WrongGuessLow([**Too Low! Try Again**])
